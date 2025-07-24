@@ -1,0 +1,21 @@
+{
+    "storeName": "",
+    "address": "",
+    "phoneNumber": "",
+    "timestamp": "",
+    "itemList": [
+        {
+            "productName": "",
+            "quantity": 0,
+            "unitPrice": 0,
+            "totalPrice": 0
+        },
+        {
+            "productName": "",
+            "quantity": 0,
+            "unitPrice": 0,
+            "totalPrice": 0
+        }
+    ],
+    "receiptTotal": 0
+}
